@@ -9,17 +9,20 @@
 # 다가오는 일정
  * 날짜
    * 7월 21일 금요일 14:00 ~ 17:00
+
  * 장소
    * [D.CAMP](http://naver.me/GPxRB9NK)
+
  * 참가신청
    * [신청 바로가기](https://goo.gl/forms/YE0wgPLSDPPzNmU02)
+
  * 내용
    * 네트워킹
-   * Discussion 주제
-   * TechTalk
-     * [GPS없는 자율비행 드론 개발](http://subak.io/?p=2068) - 20min (신제용)
-     * 정밀착륙 - 15min (류지형)
-     * - 발표 신청 받습니다~ -
+   * Discussion 주제
+   * TechTalk
+     * [GPS없는 자율비행 드론 개발](http://subak.io/?p=2068) - 20min (신제용)
+     * 정밀착륙 - 15min (류지형)
+     * - 발표 신청 받습니다~ -
    * Discussion
    * Summary
    
