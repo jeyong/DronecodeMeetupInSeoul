@@ -19,7 +19,7 @@
    * TechTalk
      * [GPS없는 자율비행 드론 개발](http://subak.io/?p=2068) - 20min (신제용)
      * 정밀착륙 - 15min (류지형)
-     * - 발표 신청 받습니다~ -
+     * 발표 신청 받습니다~
    * Discussion
    * Summary
    
