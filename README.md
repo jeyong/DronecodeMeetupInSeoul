@@ -17,7 +17,7 @@
    * [신청 바로가기](https://goo.gl/forms/YE0wgPLSDPPzNmU02)
 
  * 내용
-   * 네트워킹
+   * 네트워킹
    * Discussion 주제
    * TechTalk
      * [GPS없는 자율비행 드론 개발](http://subak.io/?p=2068) - 20min (신제용)
