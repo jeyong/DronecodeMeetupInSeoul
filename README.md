@@ -1,4 +1,6 @@
 
+![Dronecode Meetup in Seoul](/images/logo.png)
+
 ## Dronecode Meetup in Seoul은
 국내 상용 Drone 기술 커뮤니티입니다.
 산업에서 사용되는 Drone SW 기술을 중심으로 연구 및 개발하시는 분들을 위한 자리입니다.
